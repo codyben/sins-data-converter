@@ -21,5 +21,5 @@ This utility was abandoned in 2013 amid an ambitious code rewrite project that s
 
 ## System Requirements
 - Windows XP or newer
-- .NET Framework 3.0
+- .NET Framework 3.5
 - Sins of a Solar Empire OR a ConvertData*.exe
